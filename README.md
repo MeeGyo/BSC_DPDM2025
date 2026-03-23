@@ -23,12 +23,22 @@ KKU-SIDS
 Final Score = Score × %attendance
 
 ## 🌈 รายละเอียดบทเรียน
-### บทที่ 1: Introduction
+### Chapter 1: Introduction
 เรียนรู้แนวคิดพื้นฐานของ Data Mining ประกอบด้วยนิยาม ความสำคัญ และกระบวนการทำงาน ตลอดจนการประยุกต์ใช้ในสถานการณ์จริง
 
 - เอกสาร: [ดาวน์โหลดบทที่ 1 PDF](Lecture/01Intro.pdf)
 
-### บทที่ 2: Getting to Know Your Data
+### Chapter 2: Getting to Know Your Data
 เรียนรู้การวิเคราะห์ข้อมูลเบื้องต้น เพื่อทำความเข้าใจลักษณะและคุณสมบัติของข้อมูลก่อนนำไปวิเคราะห์ขั้นสูง
 
 - เอกสาร: [ดาวน์โหลดบทที่ 2 PDF](Lecture/02Data.pdf)
+
+### Chapter 3: Data Preprocessing
+
+### Chapter 6: Mining Frequent Patterns, Association and Correlations: Basic Concepts and Methods
+
+### Chapter 8: Classification: Basic Concepts
+
+### Chapter 9: Classification: Advanced Methods
+
+### Chapter 10: Cluster Analysis: Basic Concepts and Methods
