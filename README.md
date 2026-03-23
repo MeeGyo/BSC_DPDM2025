@@ -4,6 +4,7 @@ KKU-SIDS
 
 ## ⭐️ รายละเอียดรายวิชา
 **ชื่อวิชา:** Data Preparation and Data Mining
+**รหัสวิชา:** SC663403
 
 **คำอธิบายรายวิชา:** แนวคิดของการเตรียมข้อมูล ชนิดและประเภทของข้อมูล เครื่องมือที่ใช้ในการเตรียมข้อมูล การจัดการข้อมูลในรูปแบบต่าง ๆ พื้นฐานของการทำเหมืองข้อมูลและแนวคิดเชิงพรรณนา การสกัดความรู้จากข้อมูล อัลกอริทึมการสร้างตัวแบบเพื่อการทำนายการค้นพบความสัมพันธ์ในการทำเหมืองข้อมูล การจัดกลุ่มข้อมูล เทคนิคการประเมินตัวแบบ การเรียนรู้จากตัวแบบที่หลากหลาย และ กรณีศึกษาที่เกี่ยวข้อง
 
@@ -22,23 +23,24 @@ KKU-SIDS
 
 Final Score = Score × %attendance
 
-## 🌈 รายละเอียดบทเรียน
+## 🌈 เอกสารประกอบการเรียน
 ### Chapter 1: Introduction
-เรียนรู้แนวคิดพื้นฐานของ Data Mining ประกอบด้วยนิยาม ความสำคัญ และกระบวนการทำงาน ตลอดจนการประยุกต์ใช้ในสถานการณ์จริง
-
-- เอกสาร: [ดาวน์โหลดบทที่ 1 PDF](Lecture/01Intro.pdf)
+- [Download Chapter 1](Lecture/01Intro.pdf)
 
 ### Chapter 2: Getting to Know Your Data
-เรียนรู้การวิเคราะห์ข้อมูลเบื้องต้น เพื่อทำความเข้าใจลักษณะและคุณสมบัติของข้อมูลก่อนนำไปวิเคราะห์ขั้นสูง
-
-- เอกสาร: [ดาวน์โหลดบทที่ 2 PDF](Lecture/02Data.pdf)
+- [Download Chapter 2](Lecture/02Data.pdf)
 
 ### Chapter 3: Data Preprocessing
+- [Download Chapter 3](Lecture/03Preprocessing(1).pdf)
 
 ### Chapter 6: Mining Frequent Patterns, Association and Correlations: Basic Concepts and Methods
+- [Download Chapter 6](Lecture/06FPBasic.pdf)
 
 ### Chapter 8: Classification: Basic Concepts
+- [Download Chapter 8](Lecture/08ClassBasic.pdf)
 
 ### Chapter 9: Classification: Advanced Methods
-
+- [Download Chapter 9](Lecture/09ClassAdvanced.pdf)
+- [Download Perceptron Learning Rule](Lecture/ai1.0.2.pdf)
 ### Chapter 10: Cluster Analysis: Basic Concepts and Methods
+- [Download Chapter 10](Lecture/10ClusBasic.pdf)
